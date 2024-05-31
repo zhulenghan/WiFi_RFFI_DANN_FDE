@@ -94,10 +94,7 @@ This project presents the first Wi-Fi 4 RFFI dataset, suitable for testing the c
 
 ## References
 
-1. IDC, December 2019
-2. J. Zhang et al., “Radio frequency fingerprint identification for device authentication in the internet of things,” IEEE Communications Magazine, 2023.
-3. A. Al-Shawabka et al., “Exposing the fingerprint: Dissecting the impact of the wireless channel on radio fingerprinting,” in IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 2020, pp. 646–655.
-4. Y. Li et al., “Deep domain generalization via conditional invariant adversarial networks,” in Proceedings of the European conference on computer vision (ECCV), 2018, pp. 624–639.
+1. J. Zhang et al., “Radio frequency fingerprint identification for device authentication in the internet of things,” IEEE Communications Magazine, 2023.
 
 ## Contact
 
