@@ -1,0 +1,1 @@
+PicoScenes -d debug -i usrpMyB210 --mode logger --rx-channel 0 --rx-ant TX/RX --freq 2442e6 --rate 40e6 --rx-resample-ratio 1.0 --rx-cbw 40 --rx-gain 0.45 --plot --destination-address-filter 5c:02:14:01:af:d9
