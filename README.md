@@ -98,4 +98,4 @@ This project presents the first Wi-Fi 4 RFFI dataset, suitable for testing the c
 
 ## Contact
 
-For more information, contact Lenghan Zhu at sglzhu9@liverpool.ac.uk.
+For more information, contact Lenghan Zhu at lenghanz@andrew.cmu.edu.
